@@ -1,0 +1,3 @@
+# AutoPublish Compact
+
+Initial upload.
